@@ -5,3 +5,7 @@ data/
 .ipynb_checkpoints/
 
 *.csv
+*.venv/
+*.csv
+*.npy
+*.pkl
