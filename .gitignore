@@ -1,11 +1,19 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache files
 __pycache__/
 *.pyc
-.env
-data/
-.ipynb_checkpoints/
+*.pyo
+*.pyd
 
-*.csv
-*.venv/
+# VSCode settings
+.vscode/
+
+#data files
+data/
 *.csv
 *.npy
-*.pkl
